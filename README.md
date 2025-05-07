@@ -7,3 +7,4 @@
 - [新概念学习笔记分享](https://github.com/andylee1890/NewConceptEnglish)
 - [Learning English](https://github.com/knowledgefxg/learning-english)
 - [面试中的英语](https://github.com/Interview-Science/interview-english)
+- [新概念英语笔记,英语学习资料](https://github.com/protogenesis/NewConceptEnglish)
