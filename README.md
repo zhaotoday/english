@@ -10,3 +10,6 @@
 - [新概念英语笔记,英语学习资料](https://github.com/protogenesis/NewConceptEnglish)
 - [计算机专业术语中英文对照](https://github.com/EarsEyesMouth/computerese-cross-references)
 - [中国程序员最容易犯的100个英语口语错误](https://github.com/eliaszon/Common-English-Mistakes-By-Chinese)
+
+#### 开源
+- [DashPlayer](https://github.com/solidSpoon/DashPlayer)
