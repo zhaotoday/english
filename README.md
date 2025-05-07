@@ -13,3 +13,6 @@
 
 #### 开源
 - [DashPlayer](https://github.com/solidSpoon/DashPlayer)
+
+#### 视频
+- [开源背单词软件及背诵方法分享，30分钟100单词，欢迎测试～](https://www.bilibili.com/video/BV1g24y1e7pt/)
