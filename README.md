@@ -8,3 +8,4 @@
 - [Learning English](https://github.com/knowledgefxg/learning-english)
 - [面试中的英语](https://github.com/Interview-Science/interview-english)
 - [新概念英语笔记,英语学习资料](https://github.com/protogenesis/NewConceptEnglish)
+- [计算机专业术语中英文对照](https://github.com/EarsEyesMouth/computerese-cross-references)
