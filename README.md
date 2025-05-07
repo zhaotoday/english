@@ -6,3 +6,4 @@
 - [专为程序员编写的英语学习指南](https://a-programmers-guide-to-english.harryyu.me/)
 - [新概念学习笔记分享](https://github.com/andylee1890/NewConceptEnglish)
 - [Learning English](https://github.com/knowledgefxg/learning-english)
+- [面试中的英语](https://github.com/Interview-Science/interview-english)
