@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [MuJing](https://github.com/tangshimin/MuJing)
 - [everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [DashPlayer](https://github.com/solidSpoon/DashPlayer)
 - [typing-word](https://github.com/zyronon/typing-word)
