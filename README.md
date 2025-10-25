@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus)
 - [sc-translator-crx](https://github.com/chunibyocola/sc-translator-crx)
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)
 - [MuJing](https://github.com/tangshimin/MuJing)
