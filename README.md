@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [english-vocabulary](https://github.com/KyleBing/english-vocabulary)
 - [learning-english](https://github.com/knowledgefxg/learning-english)
 - [vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus)
 - [sc-translator-crx](https://github.com/chunibyocola/sc-translator-crx)
