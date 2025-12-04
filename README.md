@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [dict](https://github.com/kajweb/dict)
 - [NCE](https://github.com/iChochy/NCE)
 - [English-Writing](https://github.com/yzy1996/English-Writing)
 - [english-vocabulary](https://github.com/KyleBing/english-vocabulary)
