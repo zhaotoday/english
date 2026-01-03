@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [Aictionary](https://github.com/ahpxex/Aictionary)
 - [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
 - [english-dictionary-web](https://github.com/TICKurt/english-dictionary-web)
 - [parrots](https://github.com/shibing624/parrots)
