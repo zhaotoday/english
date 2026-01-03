@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [TypeWords](https://github.com/zyronon/TypeWords)
 - [CET6-Resources](https://github.com/YinsinSirius/CET6-Resources)
 - [Aictionary](https://github.com/ahpxex/Aictionary)
 - [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
