@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [NCE-Flow](https://github.com/luzhenhua/NCE-Flow)
 - [1eez/103976](https://github.com/1eez/103976)
 - [DictionaryData](https://github.com/LinXueyuanStdio/DictionaryData)
 - [dict](https://github.com/kajweb/dict)
