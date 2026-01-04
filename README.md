@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [EnglishDataBase](https://github.com/Leezed525/EnglishDataBase)
 - [phonetic-symbol](https://github.com/Ivens-Zhang/phonetic-symbol)
 - [English-level-up-tips](https://github.com/byoungd/English-level-up-tips)
 - [New-Concept-English](https://github.com/protogenesis/New-Concept-English)
