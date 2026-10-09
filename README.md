@@ -15,6 +15,7 @@
 - [illa](https://illa.xlike.cc/)
 
 #### 开源
+- [english-chinese-words](https://github.com/mikigo/english-chinese-words)
 - [vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek)
 - [All_Dictionaries](https://github.com/Dictionaryphile/All_Dictionaries)
 - [EnglishDataBase](https://github.com/Leezed525/EnglishDataBase)
